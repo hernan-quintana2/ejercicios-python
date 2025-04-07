@@ -1,0 +1,5 @@
+quien=input("quien lo hizo?: ")
+que=input("que hizo?: ")
+cuando=input("que dia lo hizo: ")
+como=input("como lo hizo?: ")
+print("Última noticia!," "la persona "+quien, "en el día "+cuando, "hizo, "+que, "de la siguiente manera "+como )
